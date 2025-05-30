@@ -25,6 +25,3 @@ terraform init
 terraform apply
 ```
 
-## License
-
-MIT
